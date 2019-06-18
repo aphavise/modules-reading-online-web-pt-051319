@@ -18,8 +18,11 @@ module FancyDance
     end
   end 
   
-  moudle ClassMethods 
+  module ClassMethods 
   
     def metadata 
-      
+         "This class produces objects that love to dance."
+    end
+  end
+end 
       
