@@ -1,4 +1,4 @@
-class Class_methods_module 
+class MetaDancing 
   
   
   
